@@ -1,0 +1,9 @@
+---------- 1 ayush ayush     0 Sep 27 23:14 lines.txt
+-rw-rw-r-- 1 ayush ayush   150 Sep  1 22:35 README.txt
+-rw-rw-r-- 1 ayush ayush   406 Sep 27 18:49 com.h
+-rw-rw-r-- 1 ayush ayush    49 Sep 27 18:11 Makefile
+-rw-rw-r-- 1 ayush ayush  5222 Sep 27 22:06 ques.c
+-rw-rw-r-- 1 ayush ayush  9197 Sep 27 22:11 com.c
+-rwxrwxr-x 1 ayush ayush 14568 Sep  1 21:28 a.out
+-rwxrwxr-x 1 ayush ayush 23736 Sep 27 22:11 main
+total 72

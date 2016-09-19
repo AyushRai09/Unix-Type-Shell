@@ -1,0 +1,14 @@
+int  cd(char **args);
+int  made_exit(char **args);
+int made_getcwd(char**args);
+int made_echo(char **args);
+int made_proinfo(char **args);
+int create_process(char**args, int command_flag);
+int pipe_process(char **args);
+int runpipe(int pfd[]);
+int spawn_proc (int in, int out, char *com);
+int piping(char * comd);
+int made_jobs();
+int made_kjob(char**args);
+int made_fg(char **args);
+int made_killallbg();
